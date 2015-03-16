@@ -1,5 +1,6 @@
 require "ghostinspector/version"
+require "ghostinspector/config"
 
 module Ghostinspector
-  # Your code goes here...
+  extend Config
 end
